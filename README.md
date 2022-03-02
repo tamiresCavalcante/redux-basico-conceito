@@ -4,8 +4,18 @@
 ![fluxoredux](https://user-images.githubusercontent.com/69002877/156345692-253030fa-bd53-417f-b4c8-2ddb4300da02.png)
 
 Store = onde está guardado todo a estado da aplicação.
+
+
 Action = Ação enviada para o reducer.
+
+
 Reducer = recebe o estado anterior e atualiza com o novo estado de acordo com o que foi enviado dentro dessa ação.Passa o novo estava para o store.
+
+
 Dispatch = quando alguém alterar alguma informação ela vai estar disparando uma ação.
+
+
 mapStatetoProps = é usado para selecionar a parte dos dados do armazenamento que o componente conectado precisa.
+
+
 Slice = coleção de lógica de reducers e de action.
