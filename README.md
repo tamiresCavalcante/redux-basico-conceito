@@ -19,3 +19,5 @@ mapStatetoProps = é usado para selecionar a parte dos dados do armazenamento qu
 
 
 Slice = coleção de lógica de reducers e de action.
+
+![image](https://user-images.githubusercontent.com/69002877/156627356-99e11aae-9b57-4a3c-97df-c5ac2842fb2b.png)
